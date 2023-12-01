@@ -1,0 +1,11 @@
+{
+    "files": [
+      "files/file1.txt",
+      "files/file2.txt",
+      "files/g//\\g&_h.txt",
+      "files/h؟|؟؟>.txt",
+      "files/file with space.txt"
+
+
+    ]
+  }

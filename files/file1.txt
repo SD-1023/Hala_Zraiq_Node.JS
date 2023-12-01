@@ -1,0 +1,7 @@
+Create a Node.js program that reads a list of file paths from a configuration file and processes each file asynchronously. The processing involves counting the number of words in each file and displaying the results.
+Background
+This project covers the following topics:
+Node.js project,.,.><> creation
+NPM package manager .,/;,' Async programming
+JSON parsing
+Some node // native packages
